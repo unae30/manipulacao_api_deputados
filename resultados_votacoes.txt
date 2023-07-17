@@ -1,0 +1,526 @@
+Alfredo Gaspar: 111
+Beto Richa: 90
+Cabo Gilberto Silva: 92
+Capitão Alberto Neto: 97
+Carlos Veras: 103
+Caroline de Toni: 109
+Cobalchini: 101
+Coronel Meira: 96
+Delegada Katarina: 104
+Delegado Éder Mauro: 90
+Delegado Ramagem: 115
+Diego Garcia: 93
+Flávio Nogueira: 104
+Gerlen Diniz: 115
+Gilson Marques: 115
+Helder Salomão: 111
+Jorge Goetten: 100
+José Guimarães: 93
+José Nelto: 82
+Lafayette de Andrada: 79
+Laura Carneiro: 90
+Lucas Redecker: 109
+Marangoni: 86
+Marcos Pollon: 97
+Marcos Tavares: 85
+Mauricio Marcon: 89
+Pastor Eurico: 85
+Pedro Campos: 86
+Pr. Marco Feliciano: 109
+Renilce Nicodemos: 74
+Roberto Duarte: 109
+Robinson Faria: 105
+Rosângela Moro: 108
+Rosângela Reis: 101
+Rui Falcão: 108
+Sâmia Bomfim: 100
+Tarcísio Motta: 115
+Waldemar Oliveira: 101
+Yandra Moura: 85
+Yury do Paredão: 73
+Zé Haroldo Cathedral: 108
+Afonso Motta: 95
+Alencar Santana: 100
+André Janones: 76
+Bacelar: 109
+Chris Tonietto: 44
+Coronel Fernanda: 97
+Covatti Filho: 91
+Delegado Marcelo Freitas: 105
+Deltan Dallagnol: 80
+Diego Coronel: 103
+Eduardo Bismarck: 70
+Felipe Francischini: 95
+Gervásio Maia: 101
+João Leão: 67
+Juarez Costa: 60
+Julia Zanatta: 112
+Kim Kataguiri: 79
+Maria Arraes: 104
+Murilo Galdino: 93
+Nicoletti: 96
+Rubens Pereira Júnior: 101
+Silvio Costa Filho: 78
+Tabata Amaral: 84
+Arthur Oliveira Maia: 78
+Átila Lira: 107
+Capitão Augusto: 96
+Fabio Garcia: 81
+Fausto Santos Jr.: 87
+Lindbergh Farias: 99
+Luiz Couto: 99
+Marcelo Crivella: 83
+Carlos Jordy: 97
+Duarte Jr.: 90
+Fausto Pinato: 81
+Rubens Otoni: 88
+Mendonça Filho: 100
+Miguel Ângelo: 78
+Abilio Brunini: 91
+Adail Filho: 84
+Adilson Barroso: 82
+Aécio Neves: 63
+Afonso Hamm: 68
+Aguinaldo Ribeiro: 58
+Airton Faleiro: 77
+Alberto Fraga: 87
+Alex Santana: 64
+Alexandre Guimarães: 70
+Alexandre Leite: 60
+Alfredinho: 84
+Aliel Machado: 72
+Aluisio Mendes: 85
+Amália Barros: 90
+Amanda Gentil: 66
+Amaro Neto: 86
+Amom Mandel: 75
+Ana Paula Leão: 92
+Ana Paula Lima: 76
+Ana Pimentel: 84
+André Figueiredo: 88
+Antônia Lúcia: 47
+Antonio Andrade: 73
+Antonio Carlos Rodrigues: 86
+Antônio Doido: 63
+Any Ortiz: 66
+Arlindo Chinaglia: 88
+Arnaldo Jardim: 72
+Átila Lins: 61
+Augusto Coutinho: 89
+Augusto Puppio: 80
+Aureo Ribeiro: 72
+Baleia Rossi: 64
+Bandeira de Mello: 88
+Bebeto: 84
+Benedita da Silva: 89
+Benes Leocádio: 86
+Beto Pereira: 65
+Bia Kicis: 83
+Bibo Nunes: 88
+Bohn Gass: 82
+Bruno Farias: 79
+Bruno Ganem: 88
+Camila Jara: 82
+Capitão Alden: 81
+Carlos Gomes: 76
+Carlos Henrique Gaguim: 83
+Carlos Sampaio: 89
+Carlos Zarattini: 85
+Carol Dartora: 81
+Castro Neto: 83
+Célio Silveira: 75
+Célio Studart: 67
+Celso Russomanno: 60
+Cezinha de Madureira: 78
+Charles Fernandes: 85
+Chico Alencar: 89
+Clarissa Tércio: 85
+Claudio Cajado: 76
+Cleber Verde: 81
+Coronel Assis: 86
+Coronel Chrisóstomo: 89
+Coronel Ulysses: 78
+Cristiane Lopes: 88
+Da Vitoria: 86
+Dagoberto Nogueira: 85
+Daiana Santos: 54
+Damião Feliciano: 73
+Dani Cunha: 81
+Daniel Agrobom: 82
+Daniel Almeida: 75
+Daniel Barbosa: 61
+Daniel Freitas: 83
+Daniel Soranz: 29
+Daniel Trzeciak: 82
+Daniela Reinehr: 83
+Danilo Forte: 64
+David Soares: 63
+Defensor Stélio Dener: 83
+Delegada Adriana Accorsi: 85
+Delegado Caveira: 84
+Delegado Fabio Costa: 90
+Delegado Matheus Laiola: 88
+Delegado Palumbo: 91
+Delegado Paulo Bilynskyj: 87
+Denise Pessôa: 81
+Dilvanda Faro: 86
+Dimas Fabiano: 83
+Dimas Gadelha: 86
+Domingos Sávio: 79
+Dorinaldo Malafaia: 83
+Dr. Fernando Máximo: 85
+Dr. Francisco: 87
+Dr. Frederico: 73
+Dr. Jaziel: 63
+Dr. Luiz Ovando: 88
+Dr. Victor Linhalis: 91
+Dr. Zacharias Calil: 81
+Dra. Alessandra Haber: 77
+Duda Ramos: 68
+Duda Salabert: 56
+Eduardo Bolsonaro: 75
+Eduardo da Fonte: 72
+Elcione Barbalho: 74
+Elmar Nascimento: 47
+Emanuel Pinheiro Neto: 83
+Emidinho Madeira: 64
+Eriberto Medeiros: 80
+Erika Hilton: 65
+Erika Kokay: 90
+Eros Biondini: 71
+Evair Vieira de Melo: 86
+Fábio Macedo: 65
+Fabio Reis: 73
+Fabio Schiochet: 76
+Fábio Teruel: 73
+Felipe Becari: 71
+Felipe Carreras: 78
+Fernanda Melchionna: 82
+Fernanda Pessoa: 85
+Fernando Coelho Filho: 75
+Fernando Rodolfo: 73
+Filipe Barros: 64
+Filipe Martins: 78
+Florentino Neto: 85
+Franciane Bayer: 65
+Fred Linhares: 83
+Gabriel Nunes: 81
+General Girão: 85
+General Pazuello: 84
+Geovania de Sá: 83
+Geraldo Mendes: 72
+Geraldo Resende: 75
+Gilberto Abramo: 88
+Gilvan da Federal: 87
+Giovani Cherini: 79
+Glauber Braga: 76
+Glaustin da Fokus: 60
+Greyce Elias: 79
+Guilherme Boulos: 89
+Guilherme Uchoa: 87
+Gutemberg Reis: 82
+Heitor Schuch: 61
+Helena Lima: 71
+Helio Lopes: 50
+Henderson Pinto: 81
+Hercílio Coelho Diniz: 82
+Icaro de Valmir: 81
+Idilvan Alencar: 88
+Igor Timo: 80
+Ismael: 79
+Ismael Alexandrino: 84
+Ivan Valente: 84
+Ivoneide Caetano: 73
+Iza Arruda: 80
+Jack Rocha: 87
+Jandira Feghali: 79
+Jeferson Rodrigues: 76
+Jefferson Campos: 76
+Jilmar Tatto: 79
+João Daniel: 80
+João Maia: 76
+Joaquim Passarinho: 89
+Jonas Donizette: 82
+Jorge Braz: 81
+Jorge Solla: 82
+José Airton Félix Cirilo: 63
+José Medeiros: 85
+José Priante: 66
+José Rocha: 73
+Joseildo Ramos: 80
+Josenildo: 90
+Josias Gomes: 84
+Josivaldo JP: 70
+Júlio Cesar: 71
+Julio Lopes: 69
+Junio Amaral: 74
+Júnior Ferrari: 69
+Junior Lourenço: 52
+Keniston Braga: 74
+Kiko Celeguim: 79
+Lázaro Botelho: 69
+Leo Prates: 89
+Leonardo Monteiro: 78
+Lídice da Mata: 81
+Lincoln Portela: 79
+Lucas Ramos: 84
+Luciano Amaral: 88
+Luciano Azevedo: 77
+Luciano Bivar: 42
+Luciano Ducci: 76
+Luciano Vieira: 83
+Luis Carlos Gomes: 86
+Luisa Canziani: 49
+Luiz Antônio Corrêa: 81
+Luiz Carlos Busato: 76
+Luiz Carlos Motta: 80
+Luiz Fernando Faria: 75
+Luiz Lima: 87
+Luiz Nishimori: 78
+Luiz Philippe de Orleans e Bragança: 76
+Luizianne Lins: 81
+Marcel van Hattem: 91
+Marcelo Álvaro Antônio: 60
+Marcelo Lima: 80
+Marcelo Queiroz: 87
+Márcio Biolchi: 74
+Márcio Jerry: 86
+Márcio Marinho: 85
+Marco Bertaiolli: 75
+Marco Brasil: 84
+Marcon: 81
+Marcos Pereira: 82
+Marcos Soares: 65
+Maria do Rosário: 71
+Maria Rosas: 91
+Mário Heringer: 73
+Mário Negromonte Jr.: 71
+Marreca Filho: 60
+Marussa Boldrin: 77
+Marx Beltrão: 71
+Matheus Noronha: 41
+Maurício Carvalho: 71
+Mauricio do Vôlei: 64
+Mauricio Neves: 64
+Mauro Benevides Filho: 91
+Max Lemos: 81
+Meire Serafim: 82
+Merlong Solano: 92
+Mersinho Lucena: 77
+Messias Donato: 90
+Miguel Lombardi: 79
+Milton Vieira: 41
+Moses Rodrigues: 79
+Natália Bonavides: 81
+Nely Aquino: 86
+Nikolas Ferreira: 71
+Nilto Tatto: 80
+Odair Cunha: 82
+Olival Marques: 69
+Orlando Silva: 79
+Osmar Terra: 73
+Otto Alencar Filho: 81
+Padre João: 89
+Pastor Diniz: 79
+Pastor Gil: 67
+Pastor Henrique Vieira: 95
+Pastor Sargento Isidório: 91
+Paulão: 82
+Paulinho Freire: 84
+Paulo Alexandre Barbosa: 66
+Paulo Azi: 62
+Paulo Freire Costa: 83
+Paulo Guedes: 81
+Paulo Litro: 70
+Paulo Magalhães: 87
+Pedro Aihara: 80
+Pedro Lucas Fernandes: 76
+Pedro Paulo: 64
+Pedro Uczai: 84
+Pedro Westphalen: 83
+Pezenti: 74
+Pinheirinho: 66
+Pompeo de Mattos: 78
+Prof. Paulo Fernando: 75
+Prof. Reginaldo Veras: 81
+Professora Luciene Cavalcante: 92
+Rafael Brito: 77
+Rafael Prudente: 80
+Rafael Simoes: 89
+Raimundo Costa: 68
+Raimundo Santos: 84
+Reginaldo Lopes: 66
+Reginete Bispo: 71
+Reimont: 87
+Reinhold Stephanes: 68
+Renata Abreu: 76
+Renildo Calheiros: 85
+Ricardo Abrão: 69
+Ricardo Ayres: 88
+Ricardo Guidi: 78
+Ricardo Maia: 74
+Roberta Roma: 77
+Roberto Monteiro: 89
+Rodolfo Nogueira: 78
+Rodrigo de Castro: 80
+Rodrigo Gambale: 82
+Rogéria Santos: 83
+Rogério Correia: 86
+Romero Rodrigues: 86
+Rosana Valle: 75
+Roseana Sarney: 54
+Ruy Carneiro: 79
+Sanderson: 84
+Sargento Fahur: 91
+Sargento Gonçalves: 85
+Sargento Portugal: 85
+Saullo Vianna: 76
+Sergio Souza: 85
+Silvia Cristina: 73
+Silvia Waiãpi: 84
+Silvye Alves: 89
+Simone Marquetto: 81
+Socorro Neri: 82
+Sonize Barbosa: 41
+Talíria Petrone: 60
+Thiago de Joaldo: 88
+Thiago Flores: 87
+Tião Medeiros: 86
+Tiririca: 64
+Túlio Gadêlha: 75
+Valmir Assunção: 79
+Vander Loubet: 83
+Vermelho: 67
+Vicentinho: 81
+Vicentinho Júnior: 70
+Vitor Lippi: 82
+Waldenor Pereira: 52
+Washington Quaquá: 61
+Weliton Prado: 82
+Wellington Roberto: 66
+Zé Neto: 81
+Zé Silva: 78
+Zé Trovão: 87
+Zé Vitor: 51
+Zeca Dirceu: 69
+Zezinho Barbary: 75
+Zucco: 94
+Adriana Ventura: 89
+Alexandre Lindenmeyer: 80
+Alice Portugal: 86
+Andreia Siqueira: 66
+Antonio Brito: 51
+Celso Sabino: 52
+Coronel Telhada: 69
+Dal Barreto: 61
+Dayany Bittencourt: 85
+Detinha: 59
+Dr Benjamim: 77
+Eli Borges: 71
+Euclydes Pettersen: 41
+Félix Mendonça Júnior: 84
+Fernando Mineiro: 80
+Fernando Monteiro: 79
+Flávia Morais: 78
+Fred Costa: 56
+Gabriel Mota: 74
+Giacobo: 75
+Gilvan Maximo: 81
+Gleisi Hoffmann: 82
+Gustinho Ribeiro: 74
+João Carlos Bacelar: 53
+Josimar Maranhãozinho: 58
+Juliana Cardoso: 74
+Julio Arcoverde: 70
+Juninho do Pneu: 74
+Leônidas Cristino: 87
+Leur Lomanto Júnior: 68
+Luciano Alves: 64
+Luis Tibé: 41
+Lula da Fonte: 79
+Magda Mofatto: 90
+Marcio Alvino: 87
+Marcos Aurélio Sampaio: 77
+Misael Varella: 63
+Murillo Gouvea: 67
+Neto Carletto: 82
+Newton Cardoso Jr: 65
+Pedro Lupion: 84
+Professor Alcides: 76
+Professora Goreth: 79
+Ricardo Salles: 73
+Ricardo Silva: 59
+Sidney Leite: 65
+Tadeu Veneri: 80
+Vinicius Carvalho: 72
+Vinicius Gurgel: 62
+Welter: 80
+Wilson Santiago: 75
+Acácio Favacho: 66
+Alberto Mourão: 73
+Albuquerque: 79
+Clodoaldo Magalhães: 72
+Domingos Neto: 60
+Isnaldo Bulhões Jr.: 46
+Lebrão: 55
+Lêda Borges: 86
+Otoni de Paula: 63
+Rodrigo Estacho: 82
+Samuel Viana: 80
+Sóstenes Cavalcante: 62
+Alex Manente: 52
+Paulo Abi-Ackel: 54
+Stefano Aguiar: 61
+Luiz Gastão: 71
+Patrus Ananias: 63
+Soraya Santos: 70
+Delegada Ione: 81
+Delegado da Cunha: 70
+Marcelo Moraes: 71
+Adriano do Baldy: 80
+AJ Albuquerque: 41
+Alceu Moreira: 71
+Altineu Côrtes: 28
+André Fernandes: 76
+André Ferreira: 61
+Arthur Lira: 56
+Caio Vianna: 53
+Carla Zambelli: 49
+Carlos Chiodini: 63
+Célia Xakriabá: 79
+Chiquinho Brazão: 82
+Dandara: 74
+Diego Andrade: 55
+Dilceu Sperafico: 72
+Eduardo Velloso: 72
+Enfermeira Ana Paula: 36
+Flavinha: 43
+Gilson Daniel: 82
+Gustavo Gayer: 72
+Hugo Leal: 29
+Hugo Motta: 58
+Jadyel Alencar: 54
+Júnior Mano: 54
+Lucio Mosquini: 53
+Luiz Carlos Hauly: 26
+Luiza Erundina: 26
+Márcio Honaiser: 64
+Mario Frias: 75
+Padovani: 67
+Paulo Foletto: 64
+Priscila Costa: 23
+Rodrigo Valadares: 67
+Silas Câmara: 61
+Toninho Wandscheer: 60
+Adolfo Viana: 54
+André Fufuca: 48
+Ely Santos: 23
+Eunício Oliveira: 49
+Gilberto Nascimento: 24
+Sandro Alex: 6
+Reinhold Stephanes Junior: 1
+Julio Cesar Ribeiro: 10
+Beto Preto: 6
+Jones Moura: 17
+Renan Ferreirinha: 5
+Marcelo Calero: 2
